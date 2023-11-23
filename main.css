@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+html{
+   background-color: #171717;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+.no-bullets {
+    list-style-type: none;
+}
+
+#header>ul{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#header{
+    padding: 30px;
+    background-color: black;
+}
